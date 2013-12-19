@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"name": "XKCD Substitutions",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"description": "Replaces occurrences of words with funny substitutions from xkcd.com/1288",
 	"content_scripts": 
 	[
 		{
@@ -12,4 +12,3 @@
 		}
 	]
 }
-
